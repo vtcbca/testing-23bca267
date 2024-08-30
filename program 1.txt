@@ -1,0 +1,28 @@
+#include<iostream.h>
+#include<conio.h>
+int main()
+{
+	//print biodata
+	clrscr();
+	cout<<"Biodata"<<endl;
+	cout<<"Name:Akshita Shah"<<endl;
+	cout<<"Gender:Female"<<endl;
+	cout<<"Age:20"<<endl;
+	cout<<"Occupation:IT"<<endl;
+	cout<<"Address:Vaniyavad,Buhari,Gujrat"<<endl;
+	cout<<"Email:sakshita22@gmail.com"<<endl;
+	cout<<"Phone:9057742885"<<endl;
+	return 0;
+	getch();
+}
+
+Output:
+	Biodata
+	Name:Akshita Shah
+	Gender:Female
+	Age:20
+	Occupation:IT
+	Address:Vaniyavad,Buhari,Gujrat
+	Email:sakshita22@gmail.com
+	Phone:9057742885
+
